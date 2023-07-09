@@ -1,3 +1,6 @@
+> **Warning**
+> This repository has been moved to [Codeberg](https://codeberg.org/daudix-UFO/blog-source), all future work will continue there.
+
 # daudix-ufo.github.io/blog
 
 This is my blog based on [os-component-website](https://github.com/jimmac/os-component-website)
